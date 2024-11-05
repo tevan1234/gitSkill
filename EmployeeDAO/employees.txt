@@ -1,0 +1,3 @@
+1|tevan|chang|Jan 1, 2000|50000.00
+2|kevin|chou|Aug 7, 1999|55000.00
+3|howard|tom|May 5, 1985|80000.00
